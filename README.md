@@ -80,8 +80,3 @@ Penerapan model **DIKW** pada isu kemiskinan dan ketimpangan sosial memungkinkan
 - Mengubah data menjadi **informasi yang bermakna** melalui pengolahan statistik dan spasial.
 - Menyusun **pengetahuan** untuk memahami akar permasalahan dan hubungan sebab-akibat.
 - Mengambil **kebijakan bijak** berbasis data dan insight untuk mengatasi kemiskinan secara sistematis dan berkelanjutan.
-
----
-
-## 📁 Rekomendasi Struktur Proyek DIKW
-
